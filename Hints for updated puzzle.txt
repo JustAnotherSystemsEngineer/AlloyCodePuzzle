@@ -1,0 +1,4 @@
+Hint1: (1,2,3) - Nothing is correct.
+Hint2: (4,5,6) - Nothing is correct.
+Hint3: (7,8,9) - One number is correct but wrong placed.
+Hint4: (9,0,0) - All numbers are correct, with one well placed.
