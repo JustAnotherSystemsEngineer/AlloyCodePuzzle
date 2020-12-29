@@ -16,11 +16,17 @@ https://alloy.readthedocs.io/en/latest/index.html
 
 # Manifest
 Hints for updated puzzle.txt  - The set of hints for the updated puzzle
+
 lockPuzzle.als                - The Alloy model that solves the puzzles
+
 OriginalPuzzle.png            - The picture of the original puzzle
+
 OriginalSolution.png          - The solution image for the original puzzle, generated in the Alloy Visualizer
+
 README.md                     - This document
+
 UpdatedSolution.png           - The solution image for the new puzzle, generated in the Alloy Visualizer
+
 
 # Usage
 The model solves two different versions of the puzzle: the original and a modified version proposed by Takashi Nomura on StackOverflow. To see the solution to the original puzzle, open the model in Alloy Analyzer, select the Execute menu, and choose "Run originalLock". Depending on your settings, you may automatically see the visualized solution. If you do not have automatic visualization turned on, then select the "Instance" hyperlink in the right pane. 
