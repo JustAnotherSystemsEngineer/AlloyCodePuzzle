@@ -35,4 +35,4 @@ Code written by Jeremy Doerr based upon a StackOverflow thread here:
 https://stackoverflow.com/questions/60951163/lock-challenge-in-alloy
 
 # License
-See License.MD in the main branch.
+[MIT License](https://github.com/JustAnotherSystemsEngineer/AlloyCodePuzzle/blob/main/LICENSE)
